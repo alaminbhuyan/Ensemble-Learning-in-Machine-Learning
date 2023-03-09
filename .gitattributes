@@ -1,0 +1,2 @@
+CampusX[[:space:]]2023 filter=lfs diff=lfs merge=lfs -text
+gitattributes filter=lfs diff=lfs merge=lfs -text
